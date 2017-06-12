@@ -3,7 +3,6 @@ package main;
 import java.util.Arrays;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import org.junit.Assert;
 
 import util.FileHelper;
 import util.Input;
